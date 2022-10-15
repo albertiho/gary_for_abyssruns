@@ -53,7 +53,7 @@ BANKING_ICON = None
 
 LAST_POWERBURST_TIME = datetime.datetime.now() - datetime.timedelta(hours=1)
 RC_POT_ACTIVE = datetime.datetime.now() - datetime.timedelta(hours=1)
-FAMILIAR_REFRESH_TIME = datetime.datetime.now() + datetime.timedelta(minutes=1)
+FAMILIAR_REFRESH_TIME = datetime.datetime.now() + datetime.timedelta(hours=1)
 
 SLAYER_MASTER_IMAGE = None
 SLAYER_MASTER_LAST_POSITION = [2127, 635]
