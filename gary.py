@@ -12,7 +12,7 @@ import pygetwindow
 from PIL import Image
 from scipy import interpolate
 
-DEFAULT_MAX_RUN_TIME = 30  # 4 * 60 * 60  # 4 hours
+DEFAULT_MAX_RUN_TIME = 4 * 60 * 60  # 4 hours
 
 KEYBIND_FOR_SURGE = '7'
 KEYBIND_FOR_BLADED_DIVE = 'u'
