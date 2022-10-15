@@ -700,7 +700,8 @@ def runecrafting_loop():
 
 if __name__ == "__main__":
     """
-    TODO: lets comment some stuff here once this gary works okay 
+    TODO: lets comment some stuff here once this gary works okay
+    nah actually lets not, this is whatever. if any mod reads this, lets leave this be until mage isnt meta anymore cheers
     """
     # The following default settings are overwritten for more human mouse movement
     pyautogui.MINIMUM_DURATION = 0
