@@ -6,6 +6,8 @@ this is the second gary in the gary series. manually doing the runs is easily 2x
 ## Installing
 This was developed using `Python3.9` and it is recommended to use the same version to run it.
 
+Start by installing the required packages with `pip install -r requirements.txt`, this will install all python libraries necessary to run gary
+
 The program should run like any other python program (by typing `python gary.py` to your terminal while in the project folder)
 
 After you've tested that you can launch the program, open the `gary.py`-file in a text editor (e.g. notepad) and change the values of variables which start with `KEYBIND_` to match yours. This way the gary will perform correct inputs in correct places.
